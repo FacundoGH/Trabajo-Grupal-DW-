@@ -1,0 +1,237 @@
+body{
+    position: relative;
+width: 1542px;
+height: 1365px;
+background: linear-gradient(180deg, #042067 0%, rgba(0, 71, 255, 0) 100%);
+}
+.navbar{
+    position: relative;
+    top: 25px;
+    left: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.navtext{
+    text-decoration: none, underline;
+    color: white;
+    font-size: 35px;
+}
+.links{
+    position: relative;
+    right: 150px;
+    bottom: -200px;
+    display:block;
+    background-color: black;
+    padding-left: 1200px;
+}
+/* Hasta aca llega el navbar  */
+.art1{
+position: absolute;
+width: 511px;
+height: 66px;
+left: 710px;
+top: 90px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+color: #FFFFFF;
+text-decoration-line:underline;
+}
+.art2{
+position: absolute;
+width: 614px;
+height: 62px;
+left: 48px;
+top: 275px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+color: #FFFFFF;
+}
+.art3{
+position: absolute;
+width: 742px;
+height: 73px;
+left: 120px;
+top: 400px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 58px;
+color: #FFFFFF;
+}
+.fotofacu{
+position: absolute;
+width: 260px;
+height: 220px;
+left: 1269px;
+top: 317px;
+}
+.art4{
+position: absolute;
+width: 656px;
+height: 65px;
+left: 48px;
+top: 590px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+color: #FFFFFF;
+}
+.art5{
+position: absolute;
+width: 270px;
+height: 61px;
+left: 132px;
+top: 725px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 58px;
+color: #FFFFFF;
+}
+.fotomaxi{
+position: absolute;
+width: 260px;
+height: 220px;
+left: 1267px;
+top: 641px;
+}
+.art6{
+position: absolute;
+width: 728px;
+height: 76px;
+left: 48px;
+top: 1020px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+color: #FFFFFF;
+}
+.art7{
+position: absolute;
+width: 742px;
+height: 73px;
+left: 127px;
+top: 950px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 58px;
+color: #FFFFFF;
+}
+.fotojairo{
+position: absolute;
+width: 260px;
+height: 220px;
+left: 1267px;
+top: 961px;
+}
+/* Hasta aca llega el Article */
+footer{
+    position: relative;
+    top: 950px;
+    left: 100px;
+    width: 2000px;
+}
+.t1{
+    position: relative;
+    left: 790px;
+    top: 325px;
+    display: inline;
+    color: chartreuse;
+    font-size: 25px;
+    z-index: 1;
+}
+.t2{
+    position: relative;
+    left: 1000px;
+    top: 325px;
+    display: inline;
+    color: chartreuse;
+    font-size: 25px;
+    z-index: 1;
+}
+.link1{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    margin-right: 300px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link2{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link3{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    margin-right: 332px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link4{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link5{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    margin-right: 165px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.link6{
+    position: relative;
+    bottom: 150px;
+    right: 250px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 25px;
+}
+.imgfooter{
+    position: relative;
+    right: 850px;
+    top: 60px;
+    width: 300px;
+    height: 200px;
+}
+.p1{
+    position: relative;
+    right: 850px;
+    top: 60px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.p2{
+    position: relative;
+    right: 850px;
+    top: 60px;
+    color: chartreuse;
+    font-size: 20px;
+}
